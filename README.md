@@ -1,4 +1,4 @@
-
+[url=https://ibb.co/3r5XQrw][img]https://i.ibb.co/3r5XQrw/conversion.png[/img][/url]
 # Import bitwarden passwords in lastpass
 
 If you are switching from bitwarden to lastpass, then in the import section of lastpass you will not get the bitwarden option (current date). And the exported csv file from bitwarden is not compatible with lastpass for importing through generic csv file. This code will help you to convert the bitwarden csv file into a lastpass csv file.
